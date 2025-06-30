@@ -1,7 +1,7 @@
 # NLP
 
 Implement Word-based RNN (Implement from scratch)
-• Prepare Training samples
+ Prepare Training samples
 • Use any word embedding model
 • Train the model with different number of iterations
 [Model-1 “500 iteration”, Model-2 “1000 iteration”, Model-3 “2000 iteration”]
