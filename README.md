@@ -1,6 +1,6 @@
 # NLP
 
-Implement Word-based RNN (Implement from scratch)
+##Implement Word-based RNN (Implement from scratch)
  Prepare Training samples
 • Use any word embedding model
 • Train the model with different number of iterations
